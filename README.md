@@ -1,4 +1,4 @@
-## 🍿 React-Quis
+## 🛄 React-Quis
 
 > 🚀 A platform like a game that ask you some interview questions about React.js & End of that give you point and Advice  
 
