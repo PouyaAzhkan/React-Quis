@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🍿 React-Quis
 
 > 🚀 A platform like a game that ask you some interview questions about React.js & End of that give you point and Advice  
@@ -39,3 +40,7 @@ npm run dev
 
 If you liked it, leave a ⭐ star and share it with your friends!
 
+=======
+# React-Quis
+This is Small Project like a game that Ask you some interview Question about React.js and end of that give a point and Advice 
+>>>>>>> 27399950dfb006f637931d84137b9d3b5708f881
